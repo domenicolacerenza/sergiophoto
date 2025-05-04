@@ -7,7 +7,7 @@ export default function Home() {
       <div className="">
           <img
             className="w-full h-[50vh] object-cover"
-            src="/img/hero.jpeg"
+            src="/img/hero.jpg"
             alt="Hero Image">
 
             </img>
